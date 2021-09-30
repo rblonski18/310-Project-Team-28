@@ -1,0 +1,28 @@
+Product Backlog 
+
+Backend
+
+1. User authentication (Log In) 
+2. Event class (title, description, date, created by, start time, end time, people attending) 
+	a. Build basic class
+	b. Keep all time slots of invitees
+	c. All timeslots chosen by invitees as ordered list. 
+3. Event scheduler service 
+	a. Build basic time selection algorithm
+	b. Build API endpoints
+4. Event data storage system
+	a. User account info
+	b. Event info
+5. Info encryption 
+	a. Grab SHA-256 function
+
+Front End
+
+1. Log In screen
+2. "Enter an Event" form
+3. Calendar page
+4. Given invite, "enter availability for event" form
+5. Output event time page 
+	a. Includes user responses to availability form
+
+

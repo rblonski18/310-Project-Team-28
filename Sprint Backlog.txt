@@ -1,0 +1,52 @@
+Sprint Backlog - Sprint 1
+
+Backend
+
+1. Develop acceptance test to see if application successfully launches
+
+2. Implement basic algorithm in event scheduler service to find optimal time slot
+in list of times and corresponding preferences - Cole
+
+3. Implement format for persistent data store - Leena
+	a. Implement User class
+	b. Implement Event class 
+
+4. Develop simple servlets - Cole
+
+Front end
+
+1. Log In screen - Kai Chin
+2. Sign Up / Register Screen - Rex
+3. Calendar page - Rory
+
+
+Attended by: 
+
+Rex
+Kai Chin
+Leena 
+Cole
+Rory
+
+Reasoning for chosen items: 
+	
+	We decided we wanted to get the basic structure of the application working. 
+We chose to prioritize getting the application running, then building off of this. 
+We decided that the core algorithm implementation would give us the ability to 
+structure the rest of the application around it, and will build a simple version
+of this algorithm as a proof-of-concept. Next, we decided we would need a local data 
+store for our events and users. To implement this, we will need a User class and
+Event class. We also decided to work on implementing basic servlets to get the different
+parts of the application communicating with one another. Servlets for Login/Registration will
+be built. On the front-end, we chose to build Login/Registration pages so as to give landing
+pages for the application. We had the idea that after logging in / registering, the user would
+end up on a calendar page, so we will also be developing a simple calendar page so the 
+user has something to see when they arrive at the website after logging in. We were mainly
+looking to build the most basic aspects of the website to build off of in the next sprint. 
+
+
+
+
+
+
+
